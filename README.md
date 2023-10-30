@@ -1,3 +1,7 @@
+This repo is home to the changes described in [this blog post](https://programmingmylife.com/2023-10-30-moving-from-django-microframework-to-django.html) written to explore some of the inner workings of Django by moving from the upstream Django Microframework to a more fully fledged blog project.
+
+This is not intended to be merged back upstream. The original README is below.
+
 # µDjango (Django as a Microframework)
 
 How close can Django get to [Flask's](https://flask.palletsprojects.com/en/2.1.x/quickstart/) five-line "Hello, World!" implementation?
